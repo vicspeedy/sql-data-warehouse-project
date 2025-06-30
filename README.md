@@ -7,14 +7,14 @@ Este proyecto demostrara la comprensión de una solución de almacén de datos m
 
 ---
 
-## Requerimiento del Proyecto
+## 🚀 Requerimiento del Proyecto
 
 ### Construir un Data Warehouse (Data Engineering)
 
-#### Objetivos
+#### 🎯 Objetivos
 Desarrollar un moderno almacén de datos usando SQL Server consolidando los datos de ventas, permitir la presentación de informes analíticos y la toma de decisiones informada.
 
-#### Especificaciones
+#### 📑 Especificaciones
 -	**Data Sources**: Importar la data de dos fuentes del sistema (ERP y CRM) proporcionados como CSV files.
 -	**Data Quality**: Limpiar y resolver los problemas de calidad de los datos antes del análisis.
 -	**Integration**: Combinar ambas fuentes en un solo modelo de datos fácil de usar diseñado para consultas analíticas.
@@ -23,9 +23,9 @@ Desarrollar un moderno almacén de datos usando SQL Server consolidando los dato
 
 ---
 
-###  BI: Analitica & Reporte (Data Analytics)
+### 📊 BI: Analitica & Reporte (Data Analytics)
 
-#### Objetivos
+#### 🎯 Objetivos
 Desarrollar análisis basado en SQL para ofrecer información detallada sobre:
 -	**Comportamiento del Cliente**
 -	**Performance del Producto**
@@ -35,9 +35,9 @@ Estas ideas empoderan a las partes interesada con métricas comerciales clave, l
 
 ---
 
-## Licencia
+## 🛡️ Licencia
 Este proyecto esta licenciada bajo la [MIT License].(LICENSE). Tu estas libre de usarlo, modificarlo, y compartir este proyecto con la atribución adecuada.
 
-## Acerca de Mi
+## 🎓 Acerca de Mi
 ¡Hola a todos! Soy **Victor Valenzuela**. Soy un profesional de las Tecnologías de la información y comunicación (TIC).
 
