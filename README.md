@@ -2,6 +2,7 @@
 
 
 Bienvenido al repositorio **Data Warehouse and Analytics Project**! 🚀
+
 Este proyecto demostrara la comprensión de una solución de almacén de datos moderno (data warehouse) y analítica de negocios, desde la construcción de un almacén de datos moderno hasta la generación de información procesable (insights). Diseñando un portafolio de proyecto con las mejores prácticas de la industria en ingeniería y análisis de datos.
 
 ---
